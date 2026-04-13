@@ -1,4 +1,5 @@
 add_subdirectory(src)
+cmake_minimum_required(VERSION 4.3)
 
 set(plasmoids
     io.gitgud.catpswin56.panel
